@@ -144,10 +144,4 @@ Built over 6 phases, the platform demonstrates the **full modern data + AI lifec
 
 ---
 
-## 📜 License
-
-MIT — see [LICENSE](LICENSE).
-
----
-
 <p align="center"><i>Built end-to-end on Azure Databricks — data engineering → ML → GenAI, all on one governed lakehouse.</i></p>
