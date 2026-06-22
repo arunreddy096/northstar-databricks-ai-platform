@@ -84,7 +84,7 @@ Built over 6 phases, the platform demonstrates the **full modern data + AI lifec
 
 ### Phase 6 — CI/CD
 - **Git integration** (this repo) for version control.
-- **Databricks Asset Bundles** to deploy the entire platform (pipelines, jobs, models) across **dev → prod** as infrastructure-as-code.
+
 
 ---
 
